@@ -1,1 +1,1 @@
-Projet TP Noté SushiFast Réalisé par Ruben da Silva
+Projet TP SushiFast Réalisé par Ruben da Silva
